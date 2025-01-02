@@ -30,7 +30,7 @@ If you find these challenges interesting, you're welcome to follow along and try
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/daily-math-code-challenges.git
+    git clone https://github.com/your-username/daily-maths-and-code.git
     ```
 2. **Navigate to the repository:**
     ```bash
